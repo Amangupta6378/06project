@@ -1,0 +1,10 @@
+.cards{
+    width:250px;
+    /* display: flex; */
+}
+.main-div{
+    display: flex;
+    float: left;
+    text-align: left;
+    flex-direction: row;
+}
